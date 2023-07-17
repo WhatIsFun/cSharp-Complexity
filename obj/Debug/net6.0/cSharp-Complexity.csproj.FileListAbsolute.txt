@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Complexity\bin\Debug\net6.0\cSharp-Complexity.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Complexity\bin\Debug\net6.0\cSharp-Complexity.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Complexity\bin\Debug\net6.0\cSharp-Complexity.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Complexity\bin\Debug\net6.0\cSharp-Complexity.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Complexity\bin\Debug\net6.0\cSharp-Complexity.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Complexity\obj\Debug\net6.0\cSharp-Complexity.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Complexity\obj\Debug\net6.0\cSharp-Complexity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Complexity\obj\Debug\net6.0\cSharp-Complexity.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Complexity\obj\Debug\net6.0\cSharp-Complexity.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Complexity\obj\Debug\net6.0\cSharp-Complexity.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Complexity\obj\Debug\net6.0\cSharp-Complexity.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Complexity\obj\Debug\net6.0\refint\cSharp-Complexity.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Complexity\obj\Debug\net6.0\cSharp-Complexity.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Complexity\obj\Debug\net6.0\cSharp-Complexity.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Complexity\obj\Debug\net6.0\ref\cSharp-Complexity.dll
